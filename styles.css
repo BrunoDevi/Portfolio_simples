@@ -112,6 +112,7 @@ body{
 .link__botao{
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 16px;
     border: 2px solid var(--cor-terciaria);
     width: 250px;
