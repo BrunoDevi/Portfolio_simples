@@ -32,7 +32,7 @@ body{
 }
 
 .cabecalho__menu__link {
-    font-size: 18px;
+    font-size: 1.1rem;
     font-family: Montserrat;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -65,7 +65,7 @@ body{
 }
 
 .container__conteudo__titulo{
-    font-size: 23px;
+    font-size: 1.4rem;
     font-family: Montserrat;
 }
 
@@ -74,7 +74,7 @@ body{
 }
 
 .container__conteudo__paragrafo{
-    font-size: 15px;
+    font-size: 1rem;
     font-family: Montserrat;
 }
 
@@ -99,7 +99,7 @@ body{
 .link__subtitulo{
     font-family: Krona;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 1.1rem;
 }
 
 .link__container {
@@ -118,7 +118,7 @@ body{
     width: 250px;
     text-align: center;
     border-radius: 8px;
-    font-size: 18px;
+    font-size: 1.1rem;
     font-weight: 600;
     padding: 8px 0;
     text-decoration: none;
@@ -134,7 +134,7 @@ body{
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: Montserrat;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     padding: 5px;
 }
