@@ -82,7 +82,7 @@ body{
 .container__conteudo__fotos {
     display: flex;
     justify-content: center;
-    gap: 15px;
+    gap: 1rem;
 }
 
 .Imagem__conteudo {
@@ -143,4 +143,19 @@ body{
     font-size: 1rem;
     font-weight: 400;
     padding: 5px;
+}
+
+@media (max-width: 800px) {
+    .container{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .container__conteudo {
+        width: auto;
+    }
+
+    .cabecalho {
+        padding: 5% 0%;
+    }
 }
