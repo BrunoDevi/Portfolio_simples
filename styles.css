@@ -158,4 +158,8 @@ body{
     .cabecalho {
         padding: 5% 0%;
     }
+
+    .imagem{
+        width: 65%;
+    }
 }
